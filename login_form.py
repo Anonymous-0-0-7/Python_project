@@ -22,3 +22,6 @@ e2.grid(row=1,column=1)
 b1 = Button(root,text="Login",font=("Arial",20))
 b1.grid(row=2,column=0,columnspan=2)
 root.mainloop()
+
+#connection to database
+#take  email id also. so make new input of email
